@@ -17,7 +17,7 @@
 ### Languages and Tools:
 
 [<img align="left" alt="Visual Studio Code" width="26px" bg='white' src="https://cdn-icons-png.flaticon.com/512/3098/3098090.png" />]
-[<img align="left" alt="HTML5" width="26px" bg='white' src="https://cdn-icons-png.flaticon.com/512/4143/4143774.png" />]
+[<img align="left" alt="HTML5" width="26px" bg='white' src="https://cdn-icons-png.flaticon.com/512/4669/4669765.png" />]
 [<img align="left" alt="CSS3" bg='white' width="26px" src="https://cdn-icons-png.flaticon.com/512/3186/3186430.png" />]
 
 <br />
