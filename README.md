@@ -1,6 +1,6 @@
 ### Hi there, I'm Reshu - aka [Rustzz] 👋
 
-## I'm a Student, Learner, and Developer !!
+## I'm a Student, Developer, and Analyst  !!
 
 - 🌱 I’m currently learning everything 🤣
 - 👯 I’m looking to collaborate with other content creators
@@ -30,6 +30,7 @@
   <img align="left" alt="codeSTACKr's GitHub Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=codeSTACKr&show_icons=true&hide_border=true" />
 
 </details>
+---
 
 [linkedin]: https://www.linkedin.com/in/reshu-agarwal-393ba9187/
 [instagram]: https://www.instagram.com/rust_em_all/
