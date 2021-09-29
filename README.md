@@ -5,7 +5,7 @@
 - 🌱 I’m currently learning everything 🤣 and trying to implement it 
 - 👯 I’m looking to collaborate with other content creators
 - 🥅 Goal: Become a knowledge hub
-- ⚡ Fun fact: I love to explore new tech gadegts and play badminton
+- ⚡ Fun fact: I love to explore new tech gadgets and play badminton
 
 ### Connect with me:
 
