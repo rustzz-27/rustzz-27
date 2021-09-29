@@ -20,6 +20,7 @@
 [<img align="left" alt="CSS3" bg='white' width="26px" src="https://cdn-icons-png.flaticon.com/512/4785/4785958.png" />]
 
 <br />
+<br />
 
 
 ---
@@ -29,7 +30,7 @@
   <img align="left" alt="codeSTACKr's GitHub Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=codeSTACKr&show_icons=true&hide_border=true" />
 
 </details>
----
+
 
 [linkedin]: https://www.linkedin.com/in/reshu-agarwal-393ba9187/
 [instagram]: https://www.instagram.com/rust_em_all/
