@@ -6,7 +6,7 @@
 - 👯 I’m looking to collaborate with other content creators
 - 🥅 2022 Goals: Contribute more to Open Source projects
 - ⚡ Fun fact: I love to explore new tech gadegts and play badminton
-srhtshthstrhs
+
 ### Connect with me:
 
 [<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://cdn-icons-png.flaticon.com/512/174/174857.png" />][linkedin]
@@ -16,7 +16,7 @@ srhtshthstrhs
 
 ### Languages and Tools:
 
-[<img align="left" alt="Visual Studio Code" width="26px" src="https://cdn-icons-png.flaticon.com/512/1822/1822921.png" />]
+[<img align="left" alt="Visual Studio Code" width="26px" ,bg='white',src="https://cdn-icons-png.flaticon.com/512/3098/3098090.png" />]
 [<img align="left" alt="HTML5" width="26px" src="https://cdn-icons-png.flaticon.com/512/4143/4143774.png" />]
 [<img align="left" alt="CSS3" width="26px" src="https://cdn-icons-png.flaticon.com/512/3186/3186430.png" />]
 
