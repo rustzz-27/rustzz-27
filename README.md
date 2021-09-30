@@ -3,14 +3,14 @@
 ## I'm a Student, Developer, and Analyst  !!
 
 - 🌱 I’m currently learning everything 🤣 and trying to implement it 
-- 👯 I’m looking to collaborate with other content creators
-- 🥅 Goal: Become a knowledge hub
+- 👯 I’m looking to collaborate with other content creators and make an impact
+- 🥅 Goals: Software Engineer, TEDx Speaker, contribute more to Open Source projects
 - ⚡ Fun fact: I love to explore new tech gadgets and play badminton
 
 ### Connect with me:
 
-[<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://cdn-icons-png.flaticon.com/512/174/174857.png" />][linkedin]
-[<img align="left" alt="codeSTACKr | Instagram" width="22px" src="https://cdn-icons-png.flaticon.com/512/1384/1384063.png" />][instagram]
+[<img align="left" alt="Rustzz-27 | LinkedIn" width="22px" src="https://cdn-icons-png.flaticon.com/512/174/174857.png" />][linkedin]
+[<img align="left" alt="Rustzz-27 | Instagram" width="22px" src="https://cdn-icons-png.flaticon.com/512/1384/1384063.png" />][instagram]
 
 <br />
 
