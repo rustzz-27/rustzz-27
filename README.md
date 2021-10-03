@@ -48,12 +48,12 @@ I am an undergraduate student pursuing my B.Tech degree in Computer Science from
 ## 📈 Stats
 
 <details>
-  <summary><strong>GitHub Stats</strong></summary>
+  <summary>:medal_military: <strong>GitHub Stats</strong></summary>
   <table>
   <tr>
   <td>
-  <img src="https://github-readme-stats.vercel.app/api?username=Rustzz-27&include_all_commits=true&count_private=true&show_icons=true&line_height=20&theme=tokyonight"/>
-  <td><img src="https://github-readme-stats.vercel.app/api/top-langs?username=Rustzz-27&show_icons=true&locale=en&layout=compact&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Rustzz-27&include_all_commits=true&count_private=true&show_icons=true&line_height=20&theme=dracula"/>
+  <td><img src="https://github-readme-stats.vercel.app/api/top-langs?username=Rustzz-27&show_icons=true&locale=en&layout=compact&theme=dracula" />
   </td>
   </tr>
   </table>
