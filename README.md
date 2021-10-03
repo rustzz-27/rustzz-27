@@ -45,9 +45,8 @@ I am an undergraduate student pursuing my B.Tech degree in Computer Science from
 ![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
 ![Eclipse](https://img.shields.io/badge/Eclipse-2C2255?style=flat-square&logo=eclipse&logoColor=white)
 
-## Spotify Playing 🎧 
-[<img src="https://rustzz-27.vercel.app/api/spotify" alt="Rustzz's Spotify Playing" width="100%" />]
-
+<!-- ## Spotify Playing 🎧 
+[<img src="https://rustzz-27.vercel.app/api/spotify" alt="Rustzz's Spotify Playing" width="100%" />] -->
 
 ## 📈 Stats
 
