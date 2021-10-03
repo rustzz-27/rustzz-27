@@ -48,7 +48,7 @@ I am an undergraduate student pursuing my B.Tech degree in Computer Science from
 ## 📈 Stats
 
 <details>
-  <summary>GitHub Stats</summary>
+  <summary><strong>GitHub Stats</strong></summary>
   <table>
   <tr>
   <td>
