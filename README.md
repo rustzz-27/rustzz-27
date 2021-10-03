@@ -11,7 +11,7 @@ I am an undergraduate student pursuing my B.Tech degree in Computer Science from
 <!-- [<img align="left" alt="Rustzz-27 | LinkedIn" width="22px" src="https://cdn-icons-png.flaticon.com/512/174/174857.png" />][linkedin]
 [<img align="left" alt="Rustzz-27 | Instagram" width="22px" src="https://cdn-icons-png.flaticon.com/512/1384/1384063.png" />][instagram] -->
 
-<img align='right' src="https://user-images.githubusercontent.com/64855541/133657615-ccb22336-f4db-408e-bc30-af7ff09608e7.png" width="280">
+<img align='right' src="https://img.favpng.com/17/6/5/programmer-computer-programming-clip-art-png-favpng-7gB79TdbBtTbFnhqENzvgAhsY.jpg" width="280">
 
 ## ⚡ Technologies
 
